@@ -49,3 +49,8 @@ results/*/
 
 # Seleniumbase files
 downloaded_files/
+
+# clearcote benchmark artifacts
+results/*.json
+*.log
+clearcote_bench_fresh/
